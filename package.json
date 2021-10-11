@@ -13,6 +13,9 @@
         "mongodb": "^3.0.0",
         "mongoose": "^5.6.5"
     },
+    "engines": {
+        "node": "4.4.5"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
